@@ -3,14 +3,14 @@
   {
     "protocol": "turn",
     "host": "89.40.117.128",
-    "port": "4051",
+    "port": "4001",
     "username": "sasadjak",
     "password": "supertajna"
   }
 ],
 "rendezvous": {
   "host": "89.40.117.128",
-  "port": "3150"
+  "port": "3100"
 },
   "winversion" : "1.43.0",
   "macversion" : "1.0.0",
